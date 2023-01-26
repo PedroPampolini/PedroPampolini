@@ -1,7 +1,7 @@
 ### Olá!👋
-
-
-- 🌱 Estudante de Ciência da Computação na PUC Minas
+ 
+- 🌱 Técnico em eletrônica pelo CEFET-MG
+- 🌲 Estudante de Ciência da Computação na PUC Minas
 - 🤔 Fique a vontade para olhar meus códigos e me perguntar qualquer coisa sobre
 - 📫 Contate-me no e-mail: pedromendicino25@gmail.com
 <br>

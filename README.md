@@ -4,8 +4,8 @@
 - 🌲 Estudante de Ciência da Computação na PUC Minas
 - 🤔 Fique a vontade para olhar meus códigos e me perguntar qualquer coisa sobre
 - 📫 Contate-me no e-mail: pedromendicino25@gmail.com
-- 👔 LinkedIn: https://www.linkedin.com/in/pedro-mendicino-2a6751190/
-- 💻 Site: https://www.pampolini.com
+- 👔 LinkedIn: <a href="https://www.linkedin.com/in/pedro-mendicino-2a6751190" target="_blank">https://www.linkedin.com/in/pedro-mendicino-2a6751190</a>
+- 💻 Site: <a href="https://www.pampolini.com" target="_blank">https://www.pampolini.com</a>
 <br>
 <hr>
 <br>
